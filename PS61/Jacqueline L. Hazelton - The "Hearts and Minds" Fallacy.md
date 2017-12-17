@@ -52,5 +52,18 @@ those who do so, preventing the insurgents to obtain key resources such as food,
 and civilian recruits.
 
 ## Coercion theory
+The government gains cooperation of elites by providing benefits to some members
+exclusively; the benefits may include direct payments, the granting of impunity for criminal
+activity, access to material and nonmaterial resources, etc. The government needs their
+cooperation because they are knowledgeable in targetting an insurgency militarily and
+politically; for example, they know the interests of leading insurgents and on rifts or factions
+within the insurgency. The government should co-opt elites through accommodation because
+it is far less costly than good governance reforms.
 
+Coercion theory differs from good governance theory in three main aspects:
+1. It identifies the significance of conferring accommodations on elites;
+2. It identifies the critical role of military control of civilians;
+3. It is explanatory while good governance theory is prescriptive.
 
+## Research
+Omitted.
